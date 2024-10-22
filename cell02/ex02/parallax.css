@@ -1,0 +1,25 @@
+#first{
+    background-image: url("https://plus.unsplash.com/premium_photo-1675695700239-44153e6bf430?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGFwZXIlMjB0ZXh0dXJlfGVufDB8fDB8fHww")
+
+}
+body{
+
+    justify-content: center;
+    align-content: center;
+}
+.centered-massage {
+    text-align: center;
+    padding: 20px;
+}
+#second{
+    background-image: url("https://3.files.edl.io/9234/22/08/13/162415-884bd7bd-1754-4a93-85c6-4afb1e7faeba.png") ;
+
+}
+#black-box{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+}
+p{
+    color: beige;
+}

@@ -1,0 +1,21 @@
+div{
+    width : 100%;
+    text-align: center;
+    overflow: auto;
+}
+#first{
+    width : 100%;
+    text-align: center;
+    overflow: auto;
+    width: 50%;
+    float: left;
+    background-color: aquamarine;
+}
+#secon{
+    width : 100%;
+    text-align: center;
+    overflow: auto;
+    width: 50%;
+    float: right;
+    background-color: palevioletred;
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="background.css">
+    </head>
+    <body>
+
+        <button onclick="randomcolor()">click here</button>
+
+        <script>
+            function randomcolor(){
+                const randomcolor = '#' + Math.floor(Math.random()*16777215).toString(16);
+                document.body.style.backgroundColor = randomcolor;
+            }
+        </script>
+    </body>
+</html>

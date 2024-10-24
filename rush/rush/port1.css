@@ -64,10 +64,6 @@ section {
     padding: 20px;
     margin: 20px 0;
 }
-#contact{
-    align-items: center;
-    padding-bottom: 100px;
-}
 .certificate-container{
     display: flex;
     justify-content: space-between;
